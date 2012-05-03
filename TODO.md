@@ -15,3 +15,6 @@ Oh god the hipsters are consuming my mind.
 * Underscore - JS helpers, and used by Backbone
 * jQuery-UI - we want this thing to fucking sparkle
 * jQuery-Mobile - you should read everything on your cell phone and/or watch
+
+Actual TODO list
+ * actually use the "ie ie6" and whatever shims, right now just not supporting

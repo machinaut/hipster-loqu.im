@@ -22,6 +22,7 @@ app.configure 'development', ->
   app.use express.errorHandler()
 
 app.get '/', routes.index
+app.get '/skeleton', routes.skeleton
 
 http.createServer(app).listen 3000
 
